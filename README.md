@@ -123,7 +123,8 @@ Made some design decisions along the way that I'd probably change now, but that'
 
 Feel free to reach out!
 
-- 📧 **Email**: your.email@example.com
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/yourprofile)
+- 📧 **Email**: mohammed.abdulharis@outlook.com
+
+
 
 ---
