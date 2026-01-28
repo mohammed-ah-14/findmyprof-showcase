@@ -60,7 +60,6 @@ I was frustrated with how hard it was to find my professors' office hours, and I
 ---
 
 ### What Worked Well
-![Analytics](images/screenshot-4.png)
 - Students seem to actually use it! Last I checked, around 50+ students were using it regularly
 - Faculty members found it easy to update their schedules
 - No more outdated information since everything updates in real-time
