@@ -54,6 +54,7 @@ I was frustrated with how hard it was to find my professors' office hours, and I
 
 #### Mobile View
 ![Mobile View](images/mobile-view.png)
+
 *Works great on phones too!*
 
 ---
