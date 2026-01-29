@@ -41,7 +41,7 @@ I was frustrated with how hard it was to find my professors' office hours, and I
 ### Screenshots
 
 #### Search Page
-![Home Screen](images/screenshot-1.png)
+![Home Screen](images/search_page.png)
 *Students can search for professors by name or department*
 
 #### Office Hours View
