@@ -119,6 +119,14 @@ Made some design decisions along the way that I'd probably change now, but that'
 
 ---
 
+> [!WARNING]
+> FindMyProf is an independent student-led project created to help students access faculty office hours more easily. It is not currently an official product of University of Sharjah and is not formally affiliated with or endorsed by the university at this time. University logos, names, and colors are used solely for identification purposes. Formal integration discussions with the university are currently ongoing.
+>
+> If the university requests any changes regarding branding, content, or operation, those changes will be made promptly.
+
+---
+
+
 ### Questions or Feedbacks?
 
 Feel free to reach out!
