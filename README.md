@@ -102,7 +102,6 @@ Some things I'd like to add:
 - Ability to "favorite" certain professors
 - Show if the professor is currently in office
 - Integration with university calendar
-- Dark mode
 - multi language
 
 ---
